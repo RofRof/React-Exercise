@@ -1,0 +1,9 @@
+.build {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  gap: 5px;
+}

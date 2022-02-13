@@ -1,0 +1,26 @@
+.landing {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.landing > ul{
+  list-style-type: none;
+}
+
+.landing > ul > li {
+  text-align: center;
+  background-color: #FF621F;
+  padding: 5px;
+  margin: 15px;
+  color: white;
+  font-size: 0.85em;
+  border-radius: 2.5px
+}
+
+.landing > ul > li:hover {
+  cursor: pointer;
+  
+}

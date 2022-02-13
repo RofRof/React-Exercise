@@ -1,0 +1,11 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* .App > div:nth-child(n + 2) {
+  display: flex;
+  gap: 10px;
+} */

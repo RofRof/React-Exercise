@@ -1,0 +1,30 @@
+.sort{
+  height: 100%;
+  width: 100%;
+  gap: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.stats {
+  display: flex;
+  gap: 10px;
+}
+
+.stats > p {
+  background-color: #6E0E0A;
+  color: white;
+  padding: 5px;
+}
+
+.sort-table {
+  width: 100%;
+  padding: 5px;
+  border: 1px solid #F0F0C9;
+}
+
+.sort-table > tbody > tr > td {
+  text-align: center;
+}

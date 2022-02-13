@@ -1,0 +1,18 @@
+.calculator {
+  height: 100vh;
+  width: 100%;
+  gap: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main > div {
+  display: flex;
+  font-size: 0.90em;
+}
+
+.main > div:nth-child(4) > input {
+  height: 25px;
+  width: 35px;
+}
